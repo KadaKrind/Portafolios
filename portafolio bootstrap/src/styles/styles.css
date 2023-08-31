@@ -1,0 +1,37 @@
+body {
+  background-color: #f8f9fa;
+  font-family: 'Times New Roman', Times, serif;
+}
+.jumbotron {
+  background-color: #343a40;
+  color: #ffffff;
+  margin-bottom: 0;
+  padding: 2rem 0;
+}
+.navbar {
+  background-color: #ffffff;
+}
+.navbar-brand {
+  color: #343a40;
+  font-weight: bold;
+}
+.container {
+  padding: 2rem 0;
+}
+.rounded-circle {
+  max-width: 100%;
+  height: auto;
+}
+.social-icons a {
+  font-size: 30px;
+  margin: 0 10px;
+  color: #343a40;
+}
+.social-box {
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  margin-top: 20px;
+}
